@@ -5,6 +5,7 @@
 <h3 align="center">Exploring the Tallest Individuals in Recorded History</h3>
 
 **Overview**
+
 This project takes a lighthearted dive into the heights of the tallest men and women recorded in the Guinness World Records dataset. Through playful data cleaning, transformation, analysis, and visualization, we uncover intriguing insights about height distributions across genders, the top countries with exceptionally tall individuals, the evolution of the tallest people alive by decade, and a showcase of the tallest individuals ever recorded.
 
 **Key Findings**
